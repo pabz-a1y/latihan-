@@ -1,2 +1,1 @@
-# latihan-
-l
+<!DOCTYPE html>
